@@ -2,6 +2,8 @@
 rubric_tp3_master.json
 *_master.json
 
+#borrar linea de codigo de respuestas_tp3 
+
 # Entregas locales y temporales de evaluación
 *.pyc
 __pycache__/
